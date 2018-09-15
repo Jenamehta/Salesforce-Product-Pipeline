@@ -1,5 +1,5 @@
 # Salesforce-Product-Pipeline
-
+Create a product pipeline dashboard with analytics chart
 ## OBJECTIVE
 I would like to derive meaningful insights by creating a dashboard for the questions below from the dataset(csv file)
 - A breakdown of the current product pipeline by stage
